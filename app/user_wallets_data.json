@@ -1,0 +1,16 @@
+{
+  "0xF07C8cA1E2920E2e580BA7c342A4FFb96a51Ec6D": {
+    "mnemonic": {
+      "phrase": "truth satisfy apology few oak penalty sibling cigar venue various final apology",
+      "path": "m/44'/60'/0'/0/0",
+      "locale": "en"
+    },
+    "signingKey": {
+      "curve": "secp256k1",
+      "privateKey": "0x24247aac658e290d26acec5bffca73d9ba635aaa8f344eba76111eb29ef26d59",
+      "publicKey": "0x0431bb52286eb2de015922549428fed9d7823ec6920532f8ddcd735fcce10dfcf475aefba7abe57f376371cd0d4bce445a308e1fcb411f7744d5fcd9ff6cd28549",
+      "compressedPublicKey": "0x0331bb52286eb2de015922549428fed9d7823ec6920532f8ddcd735fcce10dfcf4",
+      "_isSigningKey": true
+    }
+  }
+}

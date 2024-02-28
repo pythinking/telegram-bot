@@ -1,0 +1,37 @@
+{
+  "1821400871": {
+    "recover_wallet": false,
+    "show_keys": false,
+    "transfer_to_other_wallet": false,
+    "token_approvals": false,
+    "gas_setting": 0,
+    "chain_setting": "",
+    "slippage": 0,
+    "bet_amount": 10,
+    "future_setting": 2,
+    "leverage": 100,
+    "margin_amount": 100
+  },
+  "5494151097": {
+    "Recover Wallet": 0.01,
+    "Show Keys": 0.02,
+    "Transfer to Other Wallet": 3,
+    "Token Approvals": 10,
+    "Gas Setting": 3,
+    "Chain Setting": 3,
+    "Slippage": 10,
+    "Omega Settings": {
+      "Bet Amount": 7,
+      "Future Setting": 7
+    },
+    "Apollo Settings": {
+      "Leverage": 200000,
+      "Margin Amount": 0
+    },
+    "Anti Rug": 0,
+    "Transfer on Blacklist": 0,
+    "First Bundle or Fail": 0,
+    "Bundle Backup": 0,
+    "Default Manual Wallets": 0
+  }
+}

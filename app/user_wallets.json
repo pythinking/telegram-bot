@@ -1,0 +1,14 @@
+{
+  "1821400871": {
+    "wallets": [
+      "0x91b64d863b682eC22a061d6DF64CB7f4aEAf6F2a",
+      "0xF07C8cA1E2920E2e580BA7c342A4FFb96a51Ec6D"
+    ],
+    "transferWallets": [
+      "0x27e9378691866c0B6D383d86F49b7f3b0579b334"
+    ],
+    "defaultWallet": "0xb1FD01c22475d694E26A658FB9984E26DD21b015",
+    "default_auto_wallets": 1,
+    "default_manual_wallets": 2
+  }
+}
